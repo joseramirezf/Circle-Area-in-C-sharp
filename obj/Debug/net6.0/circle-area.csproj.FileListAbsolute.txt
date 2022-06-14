@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/bin/Debug/net6.0/circle-area
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/bin/Debug/net6.0/circle-area.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/bin/Debug/net6.0/circle-area.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/bin/Debug/net6.0/circle-area.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/bin/Debug/net6.0/circle-area.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/obj/Debug/net6.0/circle-area.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/obj/Debug/net6.0/circle-area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/obj/Debug/net6.0/circle-area.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/obj/Debug/net6.0/circle-area.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/obj/Debug/net6.0/circle-area.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/obj/Debug/net6.0/circle-area.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/obj/Debug/net6.0/refint/circle-area.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/obj/Debug/net6.0/circle-area.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/obj/Debug/net6.0/circle-area.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/06 - Circle-Area/circle-area/obj/Debug/net6.0/ref/circle-area.dll
